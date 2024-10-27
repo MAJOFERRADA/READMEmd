@@ -1,0 +1,81 @@
+Introducción
+Completado100 XP
+* 1 minuto
+Microsoft Power BI es una solución de creación de informes completa que ofrece preparación de datos, visualización de datos, distribución y administración a través de herramientas de desarrollo y una plataforma en línea.
+Power BI puede escalar desde informes simples mediante un único origen de datos a informes que requieren modelos de datos complejos y temas coherentes. Use Power BI para crear informes visualmente impresionantes e interactivos que sirvan como motor de análisis y toma de decisiones para proyectos de grupo, divisiones u organizaciones enteras.
+Power BI es una herramienta esencial para los analistas de datos y su organización; sin embargo, todos los profesionales de datos sacan provecho de comprender cómo funciona Power BI para explorar y presentar información de datos dentro de las organizaciones.
+
+Usar Power BI
+Completado100 XP
+* 3 minutos
+Para crear informes con Power BI, primero debe conocer las herramientas necesarias. Power BI tiene tres componentes principales:
+* Power BI Desktop (aplicación de escritorio)
+* Servicio Power BI (plataforma en línea)
+* Power BI Mobile (aplicación móvil multiplataforma)
+Power BI Desktop es la herramienta de desarrollo disponible para los analistas de datos y otros creadores de informes. Mientras que el servicio Power BI le permite organizar, administrar y distribuir los informes y otros elementos de Power BI. Power BI Desktop se puede descargar de forma gratuita desde la tienda Windows o directamente en línea.
+Puede acceder al servicio Power BI en app.powerbi.com con una cuenta profesional o educativa. Si su organización aún no usa Power BI, puede seguir explorando el servicio con una evaluación gratuita, o bien puede registrarse para obtener una cuenta de desarrollador de Microsoft 365 gratuita.
+Power BI Mobile permite a los consumidores ver informes en un formato optimizado para dispositivos móviles. Puede crear estas vistas de informe optimizadas en Power BI Desktop.
+
+Exploración del flujo de Power BI
+Hay un flujo habitual a la hora de crear informes con Power BI. En primer lugar, debe usar Power BI Desktop para conectarse a los datos y crear el informe. Después, debe publicar el informe en el servicio Power BI y distribuirlo a los consumidores.
+El flujo de Power BI es el siguiente:
+1. Conexión a los datos en Power BI Desktop.
+2. Transformación y modelado de los datos con Power BI Desktop.
+3. Creación de visualizaciones e informes con Power BI Desktop.
+4. Publicación del informe en el servicio Power BI.
+5. Distribución y administración de informes en el servicio Power BI.
+El servicio Power BI también permite crear paneles de alto nivel que exploran en profundidad los informes, así como aplicaciones para agrupar fácilmente informes relacionados para los usuarios en un formato sencillo.
+Bloques de creación de Power BI
+Completado100 XP
+* 8 minutos
+Los bloques de creación de Power BI son los modelos semánticos y las visualizaciones. Cree un modelo semántico y use objetos visuales para crear un informe. Vamos a explorar estos elementos con más detalle y cómo se relacionan con el flujo de Power BI.
+Creación de un modelo semántico
+Un modelo semántico consta de todos los datos, transformaciones, relaciones y cálculos conectados. Para seguir el flujo de Power BI, primero debe conectarse a los datos, transformarlos y crear relaciones y cálculos para crear un modelo semántico.
+En primer lugar, conéctese a todos los orígenes de datos que necesite. A continuación, limpie y transforme los datos según sus necesidades. Agregue relaciones entre las tablas y los cálculos para ampliar el modelo semántico. Después, ya puede crear un informe.
+Creación de visualizaciones en un informe
+En Power BI Desktop, cuando se crea una visualización (también denominada objeto visual), se agrega al lienzo de una página de informes. Elija las visualizaciones para crear las páginas del informe. Lo ideal es que cada página sea sencilla y contenga datos relacionados, para que los consumidores puedan ver fácilmente la información.
+Power BI es una solución con poco código, lo que significa que puede "arrastrar y colocar" el campo de datos directamente en el lienzo. Power BI elegirá un objeto visual para el campo de datos. Puede cambiar fácilmente entre objetos visuales apara los mismos campos y agregar o quitar campos de datos en el objeto visual.
+Una de las características más valiosas de los informes de Power BI es la interactividad entre objetos visuales. Los consumidores pueden seleccionar distintos puntos de datos en el objeto visual y ver cómo afecta a los demás objetos visuales. En función del diseño, también pueden obtener más detalles de un objeto visual o filtrar en función de los distintos campos del informe.
+
+Una vez que esté satisfecho con el informe, publíquelo en el servicio Power BI.
+Crear un panel
+En el servicio Power BI, también puede crear paneles después de publicar un informe. Los paneles constan de una sola página formada por iconos. Agregue iconos a un panel anclando un objeto visual de un informe al panel. Los iconos no son interactivos como los objetos visuales, por lo que cuando un usuario interactúa con el icono, va al informe subyacente para obtener más información.
+Los paneles son una excelente manera de proporcionar información de alto nivel a los consumidores. De forma similar al panel de un vehículo, incluya la información más importante en un panel. Después, los consumidores pueden ir al informe para obtener más detalles.
+
+Para resumir, los bloques de creación de Power BI son los modelos semánticos y las visualizaciones. Mediante Power BI Desktop puede crear el modelo semántico y usar objetos visuales para crear informes.
+En el servicio Power BI, puede distribuir contenido a los consumidores y usar informes para crear paneles.
+Paseo por el servicio Power BI y uso
+Completado100 XP
+* 5 minutos
+Ahora que comprende cómo crear un informe, vamos a explorar el servicio Power BI. El servicio Power BI proporciona una experiencia de usuario sencilla e interactiva para llevar el análisis de datos al siguiente nivel.
+Organizar elementos con las áreas de trabajo
+Las áreas de trabajo son la base del servicio Power BI. Al publicar cualquier informe, debe elegir un área de trabajo. De forma predeterminada, cada usuario tiene acceso a Mi área de trabajo, que solo es ideal para las pruebas. Cuando quiera compartir contenido con otros usuarios, cree y use siempre un área de trabajo compartida.
+
+Explorar ejemplos de informes
+Si aún no ha creado un informe, Power BI ofrece varios informes de ejemplo para explorar. Estos informes se cargan en Mi área de trabajo para que pueda explorar de forma privada. Puede acceder a informes de ejemplo en la sección Learn del panel de navegación.
+
+Distribución de contenido
+En un área de trabajo, puede crear una aplicación, que proporciona a los consumidores una interfaz simplificada para acceder a informes y paneles. En la configuración de la aplicación, configura la aplicación, selecciona el contenido que se va a incluir (limitado al área de trabajo actual) y elige la audiencia.
+Una vez creada una aplicación, debe actualizar la aplicación después de cada cambio en los elementos del área de trabajo. El requisito de actualizar la aplicación permite controlar qué versión del contenido es visible para la audiencia.
+
+Las aplicaciones son la solución ideal para compartir dentro de cualquier organización. Aunque puede conceder acceso al área de trabajo, los permisos del área de trabajo pueden conceder a los usuarios acceso a más contenido del deseado. El uso compartido de elementos individuales también presenta un problema si realiza cambios que aún no desea que los consumidores vean.
+Explorar aplicaciones de plantilla
+Ahora que comprende lo que es una aplicación, echemos un vistazo a las aplicaciones de plantilla. Las aplicaciones de plantilla le permiten encontrar una aplicación existente que se adapte a sus necesidades y, a continuación, conectar los datos. Estas aplicaciones pueden ser una excelente manera de compartir rápidamente información con un esfuerzo mínimo.
+
+ Sugerencia
+Para acceder a las aplicaciones de plantilla, seleccione el icono Aplicaciones en el panel de navegación izquierdo > Obtener aplicaciones > Aplicaciones de plantilla.
+En la captura de pantalla siguiente, hemos instalado la aplicación de plantilla de GitHub y hemos expandido el informe. Podemos ver diferentes páginas de informe, incluidos los 100 principales colaboradores y solicitudes de incorporación de cambios. Si su organización usa GitHub, el uso de esta aplicación de plantilla puede admitir fácilmente sus necesidades sin comenzar desde el principio.
+
+Actualización de un modelo semántico
+Para admitir los datos que cambian constantemente, puede configurar actualizaciones programadas de los modelos semánticos en el servicio Power BI. Las actualizaciones a petición también están disponibles.
+
+Resumen
+Completado100 XP
+* 1 minuto
+Microsoft Power BI ofrece una solución de análisis de datos completa que incluye la preparación, visualización y distribución de datos. Los modelos semánticos y las visualizaciones son los bloques de creación de Power BI.
+El flujo y los componentes de Power BI incluyen lo siguiente:
+* Power BI Desktop para crear modelos semánticos e informes con visualizaciones.
+* Servicio Power BI para crear paneles a partir de informes publicados y distribuir contenido con aplicaciones.
+* Power BI Mobile para acceder al contenido del servicio Power BI sobre la marcha, diseñado para dispositivos móviles.
+Con Power BI, puede tomar decisiones basadas en datos en toda la organización.
+
